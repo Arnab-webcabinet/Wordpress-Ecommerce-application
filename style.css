@@ -1,0 +1,19 @@
+/*
+Theme Name: Web Cabinet India
+Theme URI: https://webcabinetindia.com
+Author: Arnab Mondal (ACI)
+Author URI: https://wordpress.org/
+*/
+.tinvwl-tooltip,span.tinvwl_add_to_wishlist-text {display: none;}
+.tinv-wishlist .tinvwl_add_to_wishlist_button.tinvwl-icon-heart:before { font-size: 32px !important; }
+.tinvwl_add_to_wishlist_button { color: #65a140; }
+.like_img { top: 10px; }
+a { color: #65a140; }
+.woocommerce #review_form .form-submit, .woocommerce #review_form .stars {
+    padding: 0;
+}
+.related_post_sec .cmn_hdr h3, .comment-reply-title { text-transform: none; }
+.woocommerce #reviews #comments ol.commentlist li .comment-text p {
+    padding: 0;
+    padding-bottom: 6px;
+}
